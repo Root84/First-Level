@@ -1,1 +1,1 @@
-print ("hello cat")
+print ("hello kleiner Kater")
